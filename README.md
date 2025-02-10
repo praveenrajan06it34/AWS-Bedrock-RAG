@@ -65,9 +65,8 @@ Examples: Chroma, Pinecone, FAISS.
  
 
 Architecture
+![POC](https://github.com/user-attachments/assets/09b9aa96-437d-4737-a3a0-0ff6d27da719)
 
-Open POC.jpg
-POC.jpg
  
 
 The system architecture for Retrieval Augmented Generation (RAG) using AWS Bedrock, integrated with Streamlit for the user interface. Here's a breakdown of each component and their interactions:
